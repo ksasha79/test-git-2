@@ -7,3 +7,6 @@ git commit -m "comment"  -  commit = запись
 git log / git log --oneline
 
 git push [rep_link] [branch_name]
+
+
+Это основной алгоритм git 
