@@ -10,4 +10,10 @@ git push [rep_link] [branch_name]
 
 git push origin master
 
+
 Это основной алгоритм git 
+
+master
+develop
+feature/main-page
+feature/about-company
