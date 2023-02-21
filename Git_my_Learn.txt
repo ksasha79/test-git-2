@@ -1,0 +1,27 @@
+Git команды
+-----------
+git status
+git add [files]    git add .  добавляет файлы в stage
+git commit -m "comment"  -  commit = запись
+git log / git log --oneline
+git push [rep_link] [branch_name]   например git push origin master
+Это основной алгоритм git
+-----------
+git pull origin master   залить из git в  комп последнюю версию
+-----------
+git reset [files]  убрать из stage
+-----------
+git branch develop  создать ветку develop
+git checkout develop  переключиться на ветку develop
+-----------
+git remote -v   просмотр имени
+-----------
+git diff    разница между деревьями
+-----------
+git config --global user.name     имя 
+git config --global user.email    почта
+----------
+git clone [url репозитория с github]   
+git init инициализировать папку для github
+git remote add origin [url репозитория с github] 
+---------
